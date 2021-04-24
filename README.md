@@ -1,19 +1,18 @@
-<img src="./assets/Banner DCT.png">
+<img align="center" src="./assets/Banner DCT2.png">
 <hr>
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocelist&layout=compact&theme=highcontrast"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocelist&layout=compact&theme=midnight-purple"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=diegocelist&theme=highcontrast" />
+            <img src="https://github-readme-stats.vercel.app/api?username=diegocelist&show_icons=true&theme=midnight-purple" />
         </td>
     </tr>   
 </table>
 <hr>
-<div align="center"><img src="https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif" width="40px"></div>
+    <h1>Hello World! 👋😄</h1>
 <hr>
-
 <!--
 **DiegoCelisT/DiegoCelisT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
