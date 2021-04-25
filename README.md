@@ -12,8 +12,8 @@
 </table>
 
 <h1>Hello World! 👋😄</h1>
-My name is Diego Fernando. Mechanical Engineer who fell in love with web development, I am a nerd who likes to study and learn continuously. Always a professor, researcher and student, and a technology and development enthusiast. A fun and creative Colombian who lives in Brazil.
-<h2>HEY! Take a look at my portfolio (in portuguese): <a href="https://diegocelist.github.io/Portfolio-DiegoCelisT/index.html" target="_blank" rel="noopener"> >>Here!<< </a> 👈👈😉</h2>
+My name is Diego Fernando. Mechanical Engineer who fell in love with web development, I am a nerd who likes to study and learn continuously. Always a professor, researcher, student, and a technology and development enthusiast. A fun and creative Colombian who lives in Brazil.
+<h2>HEY! Take a look at my portfolio: <a href="https://diegocelist.github.io/Portfolio-DiegoCelisT/index.html" target="_blank" rel="noopener"> >>Here!<< </a> 👈👈😉</h2>
 <!--
 <h2>Some technologies that I work</h2>
 <hr>
